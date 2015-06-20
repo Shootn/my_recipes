@@ -135,6 +135,64 @@
         "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
     },
     {
+        "name": "Pappardelle Alla Casa Mia",
+        "ingredients": [
+            {
+                "quantity": "250g",
+                "name": "pappardelle",
+                "type": "Misc"
+            },
+            {
+                "quantity": "10",
+                "name": "cherry tomatoes",
+                "type": "Produce"
+            },
+            {
+                "quantity": "5",
+                "name": "garlic cloves",
+                "type": "Produce"
+            },
+            {
+                "quantity": "125g",
+                "name": "exotic mushrooms",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 handful",
+                "name": "baby spinach",
+                "type": "Produce"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "virgin olive oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/4 teaspoon",
+                "name": "dried chilli flakes",
+                "type": "Condiments"
+            }
+        ],
+        "steps": [
+            "Roast about 10 cherry tomatoes, cut in half, in olive oil with 5 halved garlic cloves, and a sprinkle of dried chilli flakes for about 20 minutes.",
+            "Halfway though the roasting, add some small exotic mushrooms. I used oyster, buna-shimeji and shiro-shimeji varieties.",
+            "Meanwhile bring some water to the boil, add salt and the pappardelle.",
+            "After 8 minutes, add a handful of baby spinach leaves and cook for a further 2 minutes.",
+            "Serve the pasta with the roasted tomatoes, garlic and mushrooms.",
+            "Buon appetito!"
+        ],
+        "timers": [
+            10,
+            10,
+            0,
+            0,
+            10,
+            0
+        ],
+        "imageURL": "http://hooton.photo/meridiamo/Pappardelle_JBH5944m.jpg",
+        "originalURL": "http://hooton.photo/?page_id=775"
+    },
+    {
         "name": "Big Night Pizza",
         "ingredients": [
             {
