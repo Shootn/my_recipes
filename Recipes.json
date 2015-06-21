@@ -182,11 +182,11 @@
             "Buon appetito!"
         ],
         "timers": [
-            10,
-            10,
+            20,
             0,
             0,
-            10,
+            8,
+            0,
             0
         ],
         "imageURL": "http://hooton.photo/meridiamo/Pappardelle_JBH5944m.jpg",
